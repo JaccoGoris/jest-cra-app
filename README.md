@@ -1,3 +1,8 @@
+# This is a test project
+It's meant to showcase an issue with my dependencies with another project and CRA2 when jest testing
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
